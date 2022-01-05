@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @punkundermyskin
 - 👀 I’m interested in iOS Development as well as MERN-stack
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SwiftUI
+- 💞️ I’m looking for people to collaborate on my new project
 - 📫 How to reach me p.nkundermyskin@gmail.com
 
 <!---
